@@ -30,3 +30,4 @@ db/*
 
 #mac-os
 *.DS_Store
+/target/
